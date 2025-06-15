@@ -8,3 +8,7 @@
 ### Orientador
 
 * Daniel Pimentel Kansaon
+
+## Diagrama das Classes
+
+[!Diagrama de classes](images/DiagramaDeClasses-SGHU.png)
