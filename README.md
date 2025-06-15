@@ -11,4 +11,4 @@
 
 ## Diagrama das Classes
 
-[!Diagrama de classes](docs/images/DiagramaDeClasses-SGHU.png)
+![Diagrama de classes](docs/images/DiagramaDeClasses-SGHU.png "Diagrama de classes.")
